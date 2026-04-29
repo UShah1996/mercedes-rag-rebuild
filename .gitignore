@@ -1,0 +1,21 @@
+# Dataset (large Arrow files - do not push)
+ccdv___arxiv-summarization/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.egg
+
+# HuggingFace cache
+.cache/
+
+# Env
+.env
+*.env
+
+# OS
+.DS_Store
