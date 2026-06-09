@@ -2,7 +2,7 @@
 
 > **Production-grade RAG service** — rebuilt from the original Mercedes-Benz MLOps engagement to demonstrate full-stack ML engineering at interview depth.
 
-**Sprint active:** May 1 – May 16, 2026 · **Status:** 🚧 Coming May 2026
+**Sprint active:** Jun 15 – Jun 30, 2026 · **Status:** 🚧 Coming Jun 2026
 
 ---
 
@@ -24,7 +24,7 @@ A from-scratch rebuild of the RAG service I built at Mercedes-Benz, using public
 | **Infra** | Docker · docker-compose · GitHub Actions CI |
 | **Language** | Python 3.11 |
 
-## Coming May 2026
+## Coming June 2026
 
 - [ ] Day 1–2: Ingest pipeline + chunking/embedding
 - [ ] Day 3–4: Azure AI Search index + FastAPI endpoint
